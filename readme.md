@@ -3,6 +3,8 @@
 ## Overview
 EmoTweetAI is a sentiment analysis system designed to classify emotions in Twitter uploads. It categorizes tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion on various matters.
 
+[Documentation Details](https://github.com/Theofilusarifin/EmoTweetAI-Classifying-Emotions-in-Tweets/blob/main/Documentation.pdf)
+
 ## Features
 - Utilizes Machine Learning models such as Naïve Bayes, Support Vector Machine (SVM), and K-Nearest Neighbor (KNN) for sentiment classification.
 - Cleanses and explores training data through Exploratory Data Analysis (EDA) to understand sentiment label characteristics.
